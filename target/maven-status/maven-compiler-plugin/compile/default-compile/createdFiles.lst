@@ -1,0 +1,4 @@
+sn\edu\isepdiamniadio\ticket\TicketProjet\domain\Ticket.class
+sn\edu\isepdiamniadio\ticket\TicketProjet\service\TicketService.class
+sn\edu\isepdiamniadio\ticket\TicketProjet\contoller\TicketController.class
+sn\edu\isepdiamniadio\ticket\TicketProjet\TicketProjetApplication.class

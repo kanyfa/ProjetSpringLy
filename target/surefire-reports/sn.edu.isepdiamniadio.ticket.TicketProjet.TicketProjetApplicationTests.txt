@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sn.edu.isepdiamniadio.ticket.TicketProjet.TicketProjetApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.82 s -- in sn.edu.isepdiamniadio.ticket.TicketProjet.TicketProjetApplicationTests
